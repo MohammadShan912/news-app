@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "news24",
+            "title": "At least 3 US Marines killed, several injured after aircraft crashes during war games in Australia",
+            "description": "At least three US Marines have died after an Osprey aircraft crashed on a remote tropical island north of Australia during war games, according to US military officials.",
+            "url": "https://www.news24.com/news24/world/news/at-least-3-us-marines-killed-several-injured-after-aircraft-crashes-during-war-games-in-australia-20230827",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/3726/caf98c02fcc845e3817315f94493ef6c.jpg",
+            "publishedAt": "2023-08-27T10:39:47",
+            "content": "<ul><li>At least three US Marines have been reported dead after an Osprey aircraft crashed during drills in Australia.</li><li>The three deceased were among 23 personnel on board – five were transpor… [+3474 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-au",
+                "name": "Google News (Australia)"
+            },
+            "author": "9News",
+            "title": "Three US marines killed and 20 hurt in military aircraft crash on Tiwi Islands - 9News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy45bmV3cy5jb20uYXUvbmF0aW9uYWwvcmVzY3VlLW9wZXJhdGlvbi11bmRlcndheS1hZnRlci1taWxpdGFyeS1haXJjcmFmdC1jcmFzaC1uZWFyLWRhcndpbi9iY2FhOWY2OS1lMDk1LTQyOGEtOTcwZS02OTRhODVhNjNjNTLSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-08-27T08:08:58+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Landon Mion",
+            "title": "US military aircraft carrying more than 20 Marines crashes over Australia, injuring all onboard",
+            "description": "A military aircraft with more than 20 U.S. Marines onboard crashed Sunday near Melville Island in Australia's Northern Territory. No Australians were involved in the crash.",
+            "url": "https://www.foxnews.com/world/us-military-aircraft-carrying-about-20-marines-crashes-over-australia-3-injuring-all-onboard",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/07/GettyImages-1241108751.jpg",
+            "publishedAt": "2023-08-27T06:50:34Z",
+            "content": "A military helicopter carrying more than 20 U.S. Marines crashed Sunday morning during an exercise in Australia's Northern Territory, injuring the military personnel onboard, according to officials.\r… [+2626 chars]"
+        },
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Kathryn Magann",
+            "title": "Three US marines killed in military plane crash, dozens injured",
+            "description": "Three United States Marines have been killed and many more injured after their aircraft carrying 23 personnel crashed off the Northern Territory coast during a training drill.",
+            "url": "http://www.afr.com/politics/federal/us-military-aircraft-crashes-in-nt-one-critically-hurt-20230827-p5dzt6",
+            "urlToImage": "https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/c1a7440361438d3538d4108bf4e52d46d90444d8",
+            "publishedAt": "2023-08-27T06:43:31Z",
+            "content": "The cause of the incident is under investigation.\r\nRoyal Darwin Hospital has declared a code brown in response.\r\nNT Police Commissioner Michael Murphy said an emergency operation centre set up to tac… [+2825 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "US military helicopter crashes off northern Australia, 20 Marines on board",
+            "description": "Rescue efforts are under way with some of those on board still ‘unaccounted for’.",
+            "url": "http://www.aljazeera.com/news/2023/8/27/us-military-helicopter-crashes-off-northern-australia-20-marines-on-board",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/08/2023-04-26T062823Z_857808319_RC2ZL0AW44DB_RTRMADP_3_PHILIPPINES-USA-DEFENCE-1693110531.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-08-27T04:46:04Z",
+            "content": "A rescue operation is under way after a United States military helicopter crashed off the northern coast of Australia with 20 Marines on board.\r\nSeveral people were rescued, according to the Australi… [+603 chars]"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "Courtney Gould",
+            "title": "Rescue mission after military aircraft crash",
+            "description": "A plane carrying US marines has crashed during military exercises north of Darwin on Sunday morning.",
+            "url": "https://www.news.com.au/technology/innovation/military/rescue-mission-after-military-aircraft-crash/news-story/18ba6dd8937fdfb5deda5df647a1951b",
+            "urlToImage": "https://content.api.news/v3/images/bin/9a56f68b1df7858fd3b0a4d6f29ff5ed",
+            "publishedAt": "2023-08-27T03:38:00Z",
+            "content": "A plane carrying US marines has crashed during military exercises north of Darwin on Sunday morning. \r\nThe aircraft, reported to be a US Bell Boeing V-22 Osprey was involved in the Northern Territory… [+770 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "Bill Gertz",
+            "title": "New Cold War? U.S., China defense chiefs square off in Singapore",
+            "description": "U.S. and Chinese military leaders squared off at a major security conference in Singapore, where Beijing asserted its forces are ready for war over Taiwan, while Defense Secretary Lloyd Austin chided China for its increasingly aggressive military actions in t…",
+            "url": "https://www.washingtontimes.com/news/2023/jun/6/new-cold-war-us-china-defense-chiefs-square-singap/",
+            "urlToImage": "https://twt-thumbs.washtimes.com/media/image/2023/06/02/Asia_Defense_87009_c0-354-4900-3212_s1200x700.jpg?03d01ed366c230870d33ca18c5ebd3f9e0d01ab6",
+            "publishedAt": "2023-06-06T18:34:46Z",
+            "content": "U.S. and Chinese military leaders squared off at a major security conference in Singapore, where Beijing asserted its forces are ready for war over Taiwan, while Defense Secretary Lloyd Austin chided… [+7625 chars]"
+        }
+    ]
+}
